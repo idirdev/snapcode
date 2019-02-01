@@ -1,3 +1,5 @@
+> **Archived** — Kept for reference. Not part of the current portfolio.
+
 # SnapCode
 
 Beautiful code screenshot generator built with Next.js, React, and Tailwind CSS.
